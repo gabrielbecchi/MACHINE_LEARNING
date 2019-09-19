@@ -1,0 +1,11 @@
+Design of Experiments (NoE): utilizado para tomar decisões sobre valores com base em experimentos sem testar todas as possibilidades.
+Taguchi Technique.
+
+
+> Balanceamento: caso uma classe seja dominante, devemos "criar" dados para equilibrar os dados de treinamento (Técnica SMOTE: synthetic minority over-sampling technique).
+Importante para  melhorar o desempenho de treinamentos.
+
+Classificação e Regressão XGBoost
+
+Arvores: 
+> Arvores não binárias, cada nó pode possuir mais de duas subnó ou folha.
