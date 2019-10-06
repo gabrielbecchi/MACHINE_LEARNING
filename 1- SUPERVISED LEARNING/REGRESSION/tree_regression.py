@@ -9,7 +9,7 @@ from sklearn import ensemble
 df = p.read_csv("DATA/imports_85_reformed.csv")
 labelColumn = "price" 
 
-#Bike
+#Bike                           
 #df = p.read_csv("DATA/bike_hour.csv",index_col=0)
 #df = df.drop(columns=['dteday','casual','registered'])
 #labelColumn = "cnt"
